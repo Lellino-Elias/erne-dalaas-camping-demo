@@ -89,7 +89,7 @@ const erneDalaas: CampsiteConfig = {
       {
         title: "Persönlicher Empfang",
         text: "An der Anmeldung nimmt sich Familie Erne Zeit, mit dir den perfekten Stellplatz zu finden.",
-        image: { src: `${IMG}/gallery-be51f33066.webp`, alt: "Anmeldung und Rezeption von Haus & Camping Erne in Dalaas" },
+        image: { src: `${IMG}/gallery-6c63bef06e.webp`, alt: "Haus & Camping Erne – das Hauptgebäude mit Empfang mitten in Dalaas" },
       },
       {
         title: "Touristenlager für 8 Personen",
@@ -118,7 +118,7 @@ const erneDalaas: CampsiteConfig = {
         name: "Ferienwohnung Nr. 6",
         kind: "Ferienwohnung · 4 Personen",
         text: "Helle Wohnung für vier Personen mit separatem Schlafzimmer, voll ausgestatteter Küche und WLAN im ganzen Haus.",
-        image: { src: `${IMG}/gallery-e6217f4c77.webp`, alt: "Wohn- und Essbereich der Ferienwohnung Nr. 6 im Haus Erne" },
+        image: { src: `${IMG}/gallery-9c03967046.webp`, alt: "Vollausgestattete Küche mit gedecktem Esstisch in der Ferienwohnung Nr. 6 im Haus Erne" },
         priceFrom: 140,
         features: ["Wohnraum mit Doppelbett", "Separates Schlafzimmer", "Voll ausgestattete Küche", "ab € 140 pro Nacht"],
       },
@@ -126,7 +126,7 @@ const erneDalaas: CampsiteConfig = {
         name: "Ferienwohnung Nr. 8",
         kind: "Ferienwohnung · 2 Personen",
         text: "Gemütliche Wohnung für zwei mit Balkon, eigener Küche und Kabel-TV — ideal für Paare.",
-        image: { src: `${IMG}/gallery-26142bc381.webp`, alt: "Wohnraum der Ferienwohnung Nr. 8 im Haus Erne" },
+        image: { src: `${IMG}/gallery-92518a619d.webp`, alt: "Wohnbereich mit Küche und Balkon in der Ferienwohnung Nr. 8 im Haus Erne" },
         priceFrom: 76,
         features: ["Wohnraum mit Doppelbett", "Balkon", "Küche & Kabel-TV", "ab € 76 pro Nacht"],
       },
@@ -185,7 +185,7 @@ const erneDalaas: CampsiteConfig = {
     moreCount: 20,
     images: [
       { src: `${IMG}/gallery-e2dad76145.webp`, alt: "Spielwiese mit großem Trampolin und Spielgeräten in Dalaas nahe dem Camping Erne" },
-      { src: `${IMG}/gallery-a412ea2356.webp`, alt: "Verschneite Stellplätze am Camping Erne im Winter" },
+      { src: `${IMG}/gallery-0ab4120fa3.webp`, alt: "Familie mit Wanderausrüstung spaziert durch den sommerlichen Campingplatz Erne im Klostertal" },
       { src: `${IMG}/gallery-d0124cdf56.webp`, alt: "Dorfstraße von Dalaas mit Kirche und Bergen" },
       { src: `${IMG}/gallery-0b61221567.webp`, alt: "Touristenlager mit Stockbetten am Camping Erne" },
     ],
