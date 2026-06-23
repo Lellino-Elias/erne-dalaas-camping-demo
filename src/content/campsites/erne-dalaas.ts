@@ -186,7 +186,7 @@ const erneDalaas: CampsiteConfig = {
     images: [
       { src: `${IMG}/gallery-e2dad76145.webp`, alt: "Spielwiese mit großem Trampolin und Spielgeräten in Dalaas nahe dem Camping Erne" },
       { src: `${IMG}/gallery-0ab4120fa3.webp`, alt: "Familie mit Wanderausrüstung spaziert durch den sommerlichen Campingplatz Erne im Klostertal" },
-      { src: `${IMG}/gallery-d0124cdf56.webp`, alt: "Dorfstraße von Dalaas mit Kirche und Bergen" },
+      { src: `${IMG}/gallery-a412ea2356.webp`, alt: "Verschneite Stellplätze am Camping Erne im Klostertal" },
       { src: `${IMG}/gallery-0b61221567.webp`, alt: "Touristenlager mit Stockbetten am Camping Erne" },
     ],
   },
